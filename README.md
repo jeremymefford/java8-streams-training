@@ -1,0 +1,1 @@
+A simple Koans style approach to learning the basics of strings
